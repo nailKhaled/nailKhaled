@@ -6,5 +6,5 @@
 - 📫 How to reach me 
 <a href = https://www.facebook.com/nailKhaaled> Facebook </a>
 <a href= https://www.youtube.com/channel/UCPY6WblsryXQn3dBRwgZn_g> Youtube </a>
-Gmail : nailkhaledbeneloualid@gmail.com
+Gmail : Nail.Khaled.Beneloualid@gmail.com
 -->
