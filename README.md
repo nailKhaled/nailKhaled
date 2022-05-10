@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👋 Hi, I’m @Nail Khaled Beneloualid
-- 👀 I’m interested in Desktop-mobile-web Development 
+- 👀 I’m interested in Desktop--web Development 
 - 🌱 I’m currently learning Java 
 - 📫 How to reach me 
 <a href = https://www.facebook.com/nailKhaaled> Facebook </a>
